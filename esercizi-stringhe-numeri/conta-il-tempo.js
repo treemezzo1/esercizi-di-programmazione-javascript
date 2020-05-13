@@ -12,3 +12,5 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var gatti = 44;
