@@ -15,3 +15,5 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var ciao = 'Azz';
